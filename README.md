@@ -1,3 +1,5 @@
+https://docs.google.com/presentation/d/1E-tUwkpD86p4QlKWjgWROXGYDCR2wTH5/edit?usp=sharing&ouid=103712473140038646130&rtpof=true&sd=true
+
 # CSC207 Week 1 Lab Activity: Fizz Buzz!
 
 # Remote Change
